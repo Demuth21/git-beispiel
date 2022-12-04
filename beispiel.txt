@@ -1,3 +1,6 @@
 beispiel.txt
 zweite zeile
 dritte zeile
+vierte zeile
+fünfte zeile
+sechste zeile
