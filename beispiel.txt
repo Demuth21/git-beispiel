@@ -1,3 +1,4 @@
+Nullte zeile
 beispiel.txt
 zweite zeile
 dritte zeile
