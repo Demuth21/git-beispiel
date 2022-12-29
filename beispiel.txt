@@ -14,3 +14,4 @@ Weitere Änderung im Hauptzweig
 Weitere Änderung im neuen Zweig"
 Änderung in zweig1
 Beispiel für rebase
+Änderung in meinZweig
